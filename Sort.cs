@@ -2,6 +2,7 @@
 {
     public abstract class Sort
     {
+
         static T[] Swap<T>(T[] tab, int indexA, int indexB) where T : IComparable<T>
         {
             T key = tab[indexA];
@@ -143,7 +144,6 @@
             while (j <= right)
             {
                 if (j < right)
-                    //if (tab[j] < tab[j + 1])
                     if (tab[j].CompareTo(tab[j + 1]) < 0)
                         j++;
                 if (tab[j].CompareTo(x) < 0) break;
