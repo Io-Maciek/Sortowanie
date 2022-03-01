@@ -1,6 +1,6 @@
 <h1>Sortowanie 
   <a href="https://www.nuget.org/packages/Sortowanie-Io">
-    <img src="https://img.shields.io/nuget/v/Listy.svg?style=flat-square"/>
+    <img src="https://img.shields.io/nuget/v/Sortowanie-Io.svg?style=flat-square"/>
   </a>
 </h1>
 
