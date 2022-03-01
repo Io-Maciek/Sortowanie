@@ -1,6 +1,13 @@
-<h1>Sortowanie</h1>
+<h1>Sortowanie 
+  <a href="https://www.nuget.org/packages/Sortowanie-Io">
+    <img src="https://img.shields.io/nuget/v/Listy.svg?style=flat-square"/>
+  </a>
+</h1>
+
 <h4>Klasa biblioteczna do C#, która pozwala na sortowanie tablic typów generycznych implementujących interfejs IComparable&#60T&gt;</h4>
-<br>
+
+</br>
+
 <h5>Dostępne algorytmy sortowania to
 <br><br>
 <ul>
